@@ -1,0 +1,6 @@
+{
+  "name": "Corteiz Drop Hub & Assistant",
+  "description": "Student project hub to explore Corteiz Drop products, register your interest with size and colour, and chat with the Corteiz Drop Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
